@@ -8,9 +8,9 @@
     </names>
     <!-- Channel Icons -->
     <icons>
-        <item name="ch1_icon">@drawable/ch1</item>
-        <item name="ch2_icon">@drawable/ch2</item>
-        <item name="ch3_icon">@drawable/ch3</item>
+        <item name="ch1_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch1.png</item>
+        <item name="ch2_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch2.png</item>
+        <item name="ch3_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch3.png</item>
     </icons>
     <!-- Channel URLs -->
     <urls>
