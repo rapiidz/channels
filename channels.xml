@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+    <!-- Channel Names -->
+    <names>
+        <item name="ch1_name">Ariana</item>
+        <item name="ch2_name">Tuti</item>
+        <item name="ch3_name">Ariana News</item>
+    </names>
+    <!-- Channel Icons -->
+    <icons>
+        <item name="ch1_icon">@drawable/ch1</item>
+        <item name="ch2_icon">@drawable/ch2</item>
+        <item name="ch3_icon">@drawable/ch3</item>
+    </icons>
+    <!-- Channel URLs -->
+    <urls>
+        <item name="ch1_url">https://vast-ravine-15276.herokuapp.com/http://atn.ercdn.net/atn.m3u8</item>
+        <item name="ch2_url">https://vast-ravine-15276.herokuapp.com/http://hls1.livestreamingcdn.com/livecdn827/myStream.sdp/playlist.m3u8</item>
+        <item name="ch3_url">https://vast-ravine-15276.herokuapp.com/http://arianna.ercdn.net/ariananews.m3u8</item>
+    </urls>
+</channels>
