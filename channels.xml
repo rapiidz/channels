@@ -6,7 +6,6 @@
         <item name="ch2_name">Tuti</item>
         <item name="ch3_name">Ariana News</item>
         <item name="ch4_name">Hello</item>
-        <item name="ch5_name">Whats going on</item>
     </names>
     <!-- Channel Icons -->
     <icons>
@@ -14,7 +13,6 @@
         <item name="ch2_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch2.png</item>
         <item name="ch3_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch3.png</item>
         <item name="ch4_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch4.png</item>
-        <item name="ch5_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch5.png</item>
     </icons>
     <!-- Channel URLs -->
     <urls>
@@ -22,6 +20,5 @@
         <item name="ch2_url">https://vast-ravine-15276.herokuapp.com/http://hls1.livestreamingcdn.com/livecdn827/myStream.sdp/playlist.m3u8</item>
         <item name="ch3_url">https://vast-ravine-15276.herokuapp.com/http://arianna.ercdn.net/ariananews.m3u8</item>
         <item name="ch4_url">https://vast-ravine-15276.herokuapp.com/http://atn.ercdn.net/atn.m3u8</item>
-        <item name="ch5_url">https://vast-ravine-15276.herokuapp.com/http://atn.ercdn.net/atn.m3u8</item>
     </urls>
 </channels>
