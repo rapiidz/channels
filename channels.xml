@@ -18,4 +18,10 @@
         <item name="ch2_url">https://vast-ravine-15276.herokuapp.com/http://hls1.livestreamingcdn.com/livecdn827/myStream.sdp/playlist.m3u8</item>
         <item name="ch3_url">https://vast-ravine-15276.herokuapp.com/http://arianna.ercdn.net/ariananews.m3u8</item>
     </urls>
+    <!-- Channel Content Types -->
+    <content_type>
+        <item name="ch1_cont_type">application/x-mpegurl</item>
+        <item name="ch2_cont_type">application/x-mpegurl</item>
+        <item name="ch3_cont_type">application/x-mpegurl</item>
+    </content_type>
 </channels>
