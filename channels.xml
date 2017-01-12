@@ -5,23 +5,43 @@
         <item name="ch1_name">Ariana</item>
         <item name="ch2_name">Tuti</item>
         <item name="ch3_name">Ariana News</item>
+        <item name="ch4_name">Guardians Galaxy</item>
+        <item name="ch5_name">Avengers</item>
+        <item name="ch6_name">Breaking Bad</item>
+        <item name="ch7_name">Mission Impossible</item>
+        <item name="ch8_name">San Francisco</item>
     </names>
     <!-- Channel Icons -->
     <icons>
         <item name="ch1_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch1.png</item>
         <item name="ch2_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch2.png</item>
         <item name="ch3_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch3.png</item>
+        <item name="ch4_icon">http://prodimage.images-bn.com/pimages/0050087306830_p0_v1_s700x700.jpg</item>
+        <item name="ch5_icon">http://static-cdn1.ustream.tv/i/channel/picture/2/1/8/9/21896056/21896056,192x192,r:2.jpg</item>
+        <item name="ch6_icon">http://www.blogsmonitor.com/news/gallery/breaking-bad/dynamic/breaking_bad.jpg-nggid03114-ngg0dyn-192x224-00f0w010c010r110f110r010t010.jpg</item>
+        <item name="ch7_icon">https://s-media-cache-ak0.pinimg.com/236x/2f/6e/50/2f6e50b623703413e5863b508fcb52bb.jpg</item>
+        <item name="ch8_icon">http://www.fan.hi-ho.ne.jp/hiro-mi/test/png24_24_192x192_66.8K.png</item>
     </icons>
     <!-- Channel URLs -->
     <urls>
         <item name="ch1_url">https://vast-ravine-15276.herokuapp.com/http://atn.ercdn.net/atn.m3u8</item>
         <item name="ch2_url">https://vast-ravine-15276.herokuapp.com/http://hls1.livestreamingcdn.com/livecdn827/myStream.sdp/playlist.m3u8</item>
         <item name="ch3_url">https://vast-ravine-15276.herokuapp.com/http://arianna.ercdn.net/ariananews.m3u8</item>
+        <item name="ch4_url">asd</item>
+        <item name="ch5_url">asd</item>
+        <item name="ch6_url">asd</item>
+        <item name="ch7_url">asd</item>
+        <item name="ch8_url">asd</item>
     </urls>
     <!-- Channel Content Types -->
     <content_type>
         <item name="ch1_cont_type">application/x-mpegurl</item>
         <item name="ch2_cont_type">application/x-mpegurl</item>
         <item name="ch3_cont_type">application/x-mpegurl</item>
+        <item name="ch4_cont_type">application/x-mpegurl</item>
+        <item name="ch5_cont_type">application/x-mpegurl</item>
+        <item name="ch6_cont_type">application/x-mpegurl</item>
+        <item name="ch7_cont_type">application/x-mpegurl</item>
+        <item name="ch8_cont_type">application/x-mpegurl</item>
     </content_type>
 </channels>
