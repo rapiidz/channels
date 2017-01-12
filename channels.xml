@@ -10,6 +10,7 @@
         <item name="ch6_name">Breaking Bad</item>
         <item name="ch7_name">Mission Impossible</item>
         <item name="ch8_name">San Francisco</item>
+        <item name="ch9_name">Godzilla</item>
     </names>
     <!-- Channel Icons -->
     <icons>
@@ -21,6 +22,7 @@
         <item name="ch6_icon">http://www.blogsmonitor.com/news/gallery/breaking-bad/dynamic/breaking_bad.jpg-nggid03114-ngg0dyn-192x224-00f0w010c010r110f110r010t010.jpg</item>
         <item name="ch7_icon">https://s-media-cache-ak0.pinimg.com/236x/2f/6e/50/2f6e50b623703413e5863b508fcb52bb.jpg</item>
         <item name="ch8_icon">http://www.fan.hi-ho.ne.jp/hiro-mi/test/png24_24_192x192_66.8K.png</item>
+        <item name="ch9_icon">http://strikezone.godzillamovie.com/external/images/weibo_share_image.png</item>
     </icons>
     <!-- Channel URLs -->
     <urls>
@@ -32,6 +34,7 @@
         <item name="ch6_url">asd</item>
         <item name="ch7_url">asd</item>
         <item name="ch8_url">asd</item>
+        <item name="ch9_url">asd</item>
     </urls>
     <!-- Channel Content Types -->
     <content_type>
@@ -43,5 +46,6 @@
         <item name="ch6_cont_type">application/x-mpegurl</item>
         <item name="ch7_cont_type">application/x-mpegurl</item>
         <item name="ch8_cont_type">application/x-mpegurl</item>
+        <item name="ch9_cont_type">application/x-mpegurl</item>
     </content_type>
 </channels>
