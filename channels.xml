@@ -12,7 +12,7 @@
         <item name="ch1_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch1.png</item>
         <item name="ch2_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch2.png</item>
         <item name="ch3_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch3.png</item>
-        <item name="ch4_icon">http://static-cdn1.ustream.tv/i/channel/picture/2/2/1/8/22187504/22187504,192x192,r:2.jpg</item>
+        <item name="ch4_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch3.png</item>
     </icons>
     <!-- Channel URLs -->
     <urls>
