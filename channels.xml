@@ -5,23 +5,27 @@
         <item name="ch1_name">Ariana</item>
         <item name="ch2_name">Tuti</item>
         <item name="ch3_name">Ariana News</item>
+        <item name="ch4_name">Batman V Superman</item>
     </names>
     <!-- Channel Icons -->
     <icons>
         <item name="ch1_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch1.png</item>
         <item name="ch2_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch2.png</item>
         <item name="ch3_icon">https://cdn.rawgit.com/rapiidz/channels/master/ch3.png</item>
+        <item name="ch4_icon">http://static-cdn1.ustream.tv/i/channel/picture/2/2/1/8/22187504/22187504,192x192,r:2.jpg</item>
     </icons>
     <!-- Channel URLs -->
     <urls>
         <item name="ch1_url">https://vast-ravine-15276.herokuapp.com/http://atn.ercdn.net/atn.m3u8</item>
         <item name="ch2_url">https://vast-ravine-15276.herokuapp.com/http://hls1.livestreamingcdn.com/livecdn827/myStream.sdp/playlist.m3u8</item>
         <item name="ch3_url">https://vast-ravine-15276.herokuapp.com/http://arianna.ercdn.net/ariananews.m3u8</item>
+        <item name="ch4_url">https://vast-ravine-15276.herokuapp.com/https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=61259523988b3341&itag=22&source=webdrive&ttl=transient&app=explorer&ip=2a00:1768:2001:2::1b&ipbits=0&expire=1484437891&sparams=requiressl%2Cid%2Citag%2Csource%2Cttl%2Cip%2Cipbits%2Cexpire%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl&signature=B385A2C94B4D1FFEED20F2FAC3DB8AB8E051A61F.5860E8441DAF8D029916E3A0512BCC314D7251AD&key=ck2&mm=31&mn=sn-5hnednlr&ms=au&mt=1484423269&mv=m&nh=IgpwcjA0LmFtczE1KgkxMjcuMC4wLjE&pl=36</item>
     </urls>
     <!-- Channel Content Types -->
     <content_type>
         <item name="ch1_cont_type">application/x-mpegurl</item>
         <item name="ch2_cont_type">application/x-mpegurl</item>
         <item name="ch3_cont_type">application/x-mpegurl</item>
+        <item name="ch4_cont_type">video/mp4</item>
     </content_type>
 </channels>
