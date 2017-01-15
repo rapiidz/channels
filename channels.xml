@@ -2,7 +2,7 @@
 <channels>
     <!-- Channel Names -->
     <names>
-        <item name="ch1_name">Ariana</item>
+        <item name="ch1_name">Hello</item>
         <item name="ch2_name">Tuti</item>
         <item name="ch3_name">Ariana News</item>
     </names>
